@@ -38,7 +38,7 @@ export const listData = {
     {
       key: 1,
       title: 'Projects',
-      icon: 'film',
+      icon: 'laptop-code',
       cards: [
         {
           key: 0,
@@ -53,7 +53,7 @@ export const listData = {
     {
       key: 2,
       title: 'Articles',
-      icon: 'gamepad',
+      icon: 'newspaper',
       cards: [
         {
           key: 0,
